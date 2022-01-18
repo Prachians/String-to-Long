@@ -4,4 +4,4 @@ Human to robot-it's quite difficult but you know what string to Long is very ver
 Ans- Input- String str = "123456789"; //valid long is necessary.
             long a = Long.parseLong(str); || long a = Long.valueOf(str) //both works
             
-     Output- 123456789
+      Output- 123456789
